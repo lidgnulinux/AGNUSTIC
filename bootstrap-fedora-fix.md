@@ -1,5 +1,14 @@
 # Install fedora 35 dengan bootstrap (melalui distro ubuntu).
 
+## Spesifikasi mesin.
+
+Mesin memiliki spesifikasi sebagai berikut :
+
+- Bios legacy.
+- MBR.
+- Partisi tunggal.
+
+
 ## Persiapan :
 
 - Tool dnf atau yum, bisa dipasang dengan perintah `apt install dnf yum4`.
