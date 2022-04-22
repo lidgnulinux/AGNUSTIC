@@ -32,7 +32,7 @@ Mesin memiliki spesifikasi sebagai berikut :
 
 ## Persiapan partisi.
 
-- Format partisi
+- Format partisi.
 
 <br>
 
@@ -69,7 +69,7 @@ Mesin memiliki spesifikasi sebagai berikut :
 
 ## Konfigurasi lanjut.
 
-- Menyalin file /etc/resolv.conf
+- Menyalin file /etc/resolv.conf.
 
 <br>
 
@@ -77,7 +77,7 @@ Mesin memiliki spesifikasi sebagai berikut :
 
 <br>
 
-- Chroot
+- Chroot.
 
 <br>
 
@@ -131,7 +131,7 @@ Mesin memiliki spesifikasi sebagai berikut :
 
 <br>
 
-- Memasang paket grub dan kernel
+- Memasang paket grub dan kernel.
 
 <br>
 
@@ -139,7 +139,7 @@ Mesin memiliki spesifikasi sebagai berikut :
 
 <br>
 
-- Rebuild initramfs (rekomendasi dari Pak Ahmetcan)
+- Rebuild initramfs (rekomendasi dari Pak Ahmetcan).
 
 <br>
 
@@ -147,7 +147,7 @@ Mesin memiliki spesifikasi sebagai berikut :
 
 <br>
 
-- Disable selinux
+- Disable selinux.
 
 <br>
 
@@ -157,7 +157,7 @@ Mesin memiliki spesifikasi sebagai berikut :
 
 <br>
 
-- Memasang grub dan mengupdate grub
+- Memasang grub dan mengupdate grub.
 
 <br>
 
@@ -188,7 +188,7 @@ Mesin memiliki spesifikasi sebagai berikut :
 
 <br>
 
-- Reboot
+- Reboot.
 
 <br>
 
