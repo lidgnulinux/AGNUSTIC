@@ -1,5 +1,14 @@
 # Install fedora 35 by bootstrap (via ubuntu distro).
 
+## Machine's specification.
+
+Machine we use has these specification :
+
+- Legacy bios.
+- MBR partition table.
+- Single partition.
+
+
 ## Preparation :
 
 - dnf / yum tool, we can install it by run `apt install dnf yum4` tool.
