@@ -63,8 +63,8 @@ Machine we use has these specification :
       --assumeyes \
       --nodocs \
       systemd dnf glibc-langpack-en passwd rtkit policycoreutils \
-      NetworkManager audit firewalld selinux-policy-targeted kbd zchunk sudo \
-      vim systemd-udev rootfiles less iputils deltarpm sqlite lz4 iproute
+      audit firewalld selinux-policy-targeted kbd zchunk sudo \
+      vim systemd-udev rootfiles less iputils deltarpm sqlite lz4 iproute dhcpcd
 
 <br>
 
