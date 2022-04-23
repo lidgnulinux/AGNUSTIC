@@ -16,7 +16,7 @@ Mesin memiliki spesifikasi sebagai berikut :
 
 <br>
 
-   Isinya sebagai berikut (4 baris):
+   Isinya sebagai berikut:
 
 <br>
 
