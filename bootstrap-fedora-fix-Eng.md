@@ -16,7 +16,7 @@ Machine we use has these specification :
 
 <br>
 
-   It contains something like this (4 lines):
+   It contains something like this:
 
 <br>
 
