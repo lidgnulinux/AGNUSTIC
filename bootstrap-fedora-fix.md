@@ -20,6 +20,7 @@ Mesin memiliki spesifikasi sebagai berikut :
 
 <br>
 
+      [fedora]
       name=fedora
       baseurl=http://mirrors.bfsu.edu.cn/fedora/releases/35/Everything/x86_64/os/
       repo_gpgcheck=0
