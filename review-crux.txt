@@ -1,0 +1,39 @@
+Ulasan daily drive setelah seminggu menggunakan distro Crux.
+
+Pros :
+
+1. Sangat ringan, idle sekitar 100-an MB dengan rincian sebagai berikut :
+
+- Menggunakan Dwl wayland compositor.
+- Membuka terminal dan vim untuk mengerjakan ulasan / review.
+- kombinasi dtao dan script sebagai tampilan indikator.
+
+2. Komunitas bagus, aktif, supportif.
+3. Wiki lumayan jelas.
+4. Dukungan wayland ada.
+5. Paket manajer mudah untuk digunakan.
+
+
+Cons :
+
+1. Menyita waktu yang lama jika menggunakan perangkat yg lambat (untuk
+kompilasi khususnya).
+
+ALternatif solusi : untuk aplikasi / program GUI, bisa menggunakan appimage (jika
+tersedia), jika ingin menghindari kompilasi.
+
+2. Berpotensi membebani kinerja perangkat, setiap install / update paket perlu adanya
+kompilasi.
+
+Alternatif solusi : install paket yang perlu saja.
+
+
+Catatan :
+
+1. Beberapa ports kadang menyebabkan ports lain gagal terkompilasi (contoh :
+ffmpeg dan wlroots) dan perlu intervensi manual.
+
+2. Walaupun sudaha ada mekanisme pemenuhan dependensi port (melalui opsi depinst), kadang kita
+perlu memenuhi dependensi ports secara manual.
+
+3. Sangat "worth it" untuk dicoba.
